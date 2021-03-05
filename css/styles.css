@@ -1,0 +1,321 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 7rem;
+  text-align: center;
+  color: #fff;
+  padding: 10% 0;
+
+}
+
+/* Container */
+
+.container-fluid {
+  padding: 0;
+}
+
+/* Title */
+
+.parallax {
+  text-align: center;
+}
+
+.country-title {
+  padding-top: 15%;
+}
+
+/* Parallax  */
+
+.parallax {
+  background-image: url("beach-cover.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-thailand {
+  background-image: url("railay.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-phillipines {
+  background-image: url("boracay.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-fiji {
+  background-image: url("fiji.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-maldives {
+  background-image: url("maldives.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-india {
+  background-image: url("india.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-vietnam {
+  background-image: url("vietnam.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-cambodia {
+  background-image: url("cambodia.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-safari {
+  background-image: url("safari.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-peru {
+  background-image: url("peru.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-bali {
+  background-image: url("bali.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-patagonia {
+  background-image: url("patagonia.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-australia {
+  background-image: url("australia.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-cuba {
+  background-image: url("cuba.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-morocco {
+  background-image: url("morocco.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-jordan {
+  background-image: url("jordan.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-namibia {
+  background-image: url("namibia.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-seychelles {
+  background-image: url("seychelles.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-japan {
+  background-image: url("japan.jpg");
+  min-height: 1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Media Query */
+
+@media (max-width: 1028px) {
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  .parallax {
+    min-height: 800px;
+  }
+
+  .parallax-thailand {
+    min-height: 800px;
+  }
+
+  .parallax-phillipines {
+    min-height: 800px;
+  }
+
+  .parallax-fiji {
+    min-height: 800px;
+  }
+
+  .parallax-maldives {
+    min-height: 800px;
+  }
+
+  .india {
+    min-height: 800px;
+  }
+
+  .vietnam {
+    min-height: 800px;
+  }
+
+  .cambodia {
+    min-height: 800px;
+  }
+
+  .kenya {
+    min-height: 800px;
+  }
+
+  .peru {
+    min-height: 800px;
+  }
+
+  .bali {
+    min-height: 800px;
+  }
+
+  .patagonia {
+    min-height: 800px;
+  }
+
+  .australia {
+    min-height: 800px;
+  }
+
+  .cuba {
+    min-height: 800px;
+  }
+
+  .morocco {
+    min-height: 800px;
+  }
+
+  .jordan {
+    min-height: 800px;
+  }
+
+  .namibia {
+    min-height: 800px;
+  }
+
+  .seychelles {
+    min-height: 800px;
+  }
+
+  .japan {
+    min-height: 800px;
+  }
+}
+
+/* Thailand */
+
+/* Phillipines */
+
+/* Fiji */
+
+/* Maldives */
+
+/* India */
+
+/* Vietnam */
+
+/* Cambodia */
+
+/* Kenya */
+
+/* Machu Pichu */
+
+/* Bali */
+
+/* Patagonia */
+
+/* Australia  */
+
+/* Cuba  */
+
+/* Morocco  */
+
+/* Jordan */
+
+/* Namibia  */
+
+/* Seychelles */
+
+/* Japan */
